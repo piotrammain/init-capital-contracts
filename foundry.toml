@@ -13,4 +13,6 @@ solc = "0.8.19"
 quote_style = 'single'
 int_types = 'short'
 
+rpc_endpoints =
+
 # See more config options https://github.com/gakonst/foundry/tree/master/config
